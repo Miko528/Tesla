@@ -14,4 +14,4 @@ You will also see any lint errors in the console.
 
 ## Go on website 
 
-### `https://tesla-project-8400d.web.app`
+https://tesla-project-8400d.web.app
